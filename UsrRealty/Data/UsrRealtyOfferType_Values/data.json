@@ -1,0 +1,44 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4fe19763-b8e5-47d6-878d-525407c2002e"
+        },
+        {
+          "SchemaColumnUId": "6a00cf6a-d2da-c33f-1453-45abce70bb4f",
+          "Value": 30.00
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1745913216603+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1745854684314+0200)\/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "50e53203-b3f4-478e-9ed7-22d9d82933f2"
+        },
+        {
+          "SchemaColumnUId": "6a00cf6a-d2da-c33f-1453-45abce70bb4f",
+          "Value": 1.50
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1745913219758+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1745854686729+0200)\/"
+        }
+      ]
+    }
+  ]
+}
